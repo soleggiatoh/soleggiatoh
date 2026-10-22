@@ -1,4 +1,4 @@
-# Yo, I'm S0leeDev 👋
+# Yo, I'm whitesolee 👋
 
 I'm a passionate **WebDev** and **Minecraft Developer** focused on turning creative ideas into polished digital experiences.
 
